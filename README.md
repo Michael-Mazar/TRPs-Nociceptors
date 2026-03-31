@@ -1,5 +1,7 @@
 # Temperature Sensing in Ion Channels
 **Authors**: Michael Mazar, Mira Stoll, Enrique Velasco, Alex Binshtok, Karel Talavera
+
+
 This repository implements a biophysical nociceptor model in the NEURON simulator, with a focus on temperature-sensitive transduction and excitability. The model combines a baseline repertoire of voltage-gated, calcium-dependent, leak, and hyperpolarization-activated conductances with explicit transient receptor potential (TRP) channel mechanisms.
 
 
